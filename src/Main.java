@@ -34,5 +34,7 @@ public class Main {
         catch(IOException e){
             System.out.println("soemting went wrong");
         }
+        hello he=new hello();
+        he.hello();
     }
 }
